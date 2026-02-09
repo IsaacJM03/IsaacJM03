@@ -51,7 +51,7 @@ Feel free to explore my repositories and don't hesitate to star ⭐ the ones you
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=IsaacJM03&)](https://git.io/streak-stats"/>
+<!-- <img height="180em" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=IsaacJM03&)](https://git.io/streak-stats"/> -->
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJM03&layout=compact&langs_count=8&theme=radical"/> -->
 
 </div>
@@ -62,7 +62,7 @@ Feel free to explore my repositories and don't hesitate to star ⭐ the ones you
 
 </div>
 
----
+<!-- --- -->
 
 <!-- ## 🏆 GitHub Achievements
 
