@@ -48,7 +48,7 @@ Feel free to explore my repositories and don't hesitate to star ⭐ the ones you
 
 ---
 
-## �� GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
