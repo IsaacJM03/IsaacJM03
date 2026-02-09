@@ -33,9 +33,9 @@ Tools:       Git • Docker • VS Code • Linux
 Databases:   MongoDB • PostgreSQL • MySQL
 ```
 
----
+<!-- --- -->
 
-## 📂 Featured Projects
+<!-- ## 📂 Featured Projects
 
 <div align="center">
 
@@ -44,7 +44,7 @@ Databases:   MongoDB • PostgreSQL • MySQL
 I'm constantly working on new projects and improving existing ones.  
 Feel free to explore my repositories and don't hesitate to star ⭐ the ones you find interesting!
 
-</div>
+</div> -->
 
 ---
 
@@ -97,11 +97,11 @@ Feel free to explore my repositories and don't hesitate to star ⭐ the ones you
 
 <div align="center">
   
-### 💭 Random Dev Quote
+<!-- ### 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
----
+<!-- --- -->
 
 **Thanks for visiting! Feel free to reach out if you want to collaborate on a project or just chat about tech!** 🚀
 
