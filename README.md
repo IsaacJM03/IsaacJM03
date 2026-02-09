@@ -1,85 +1,111 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Isaac+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  
+# 👋 Hi, I'm Isaac
+
+### Software Developer • Problem Solver • Tech Enthusiast
+
+[![Profile Views](https://komarev.com/ghpvc/?username=IsaacJM03&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/IsaacJM03)
+[![GitHub followers](https://img.shields.io/github/followers/IsaacJM03?label=Followers&style=social)](https://github.com/IsaacJM03?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/IsaacJM03?label=Stars&style=social)](https://github.com/IsaacJM03)
+
 </div>
 
-<h3 align="center">🚀 Software Developer | Tech Enthusiast | Continuous Learner</h3>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IsaacJM03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## 🚀 About Me
+
+I'm a passionate developer who loves building innovative solutions and exploring new technologies. I believe in writing clean, efficient code and continuously improving my craft.
+
+- 💼 Currently working on exciting personal projects
+- 🌱 Always learning and experimenting with new tech
+- 🎯 Open to collaborating on interesting projects
+- 💡 Passionate about problem-solving and code optimization
 
 ---
 
-### 👨‍💻 About Me
+## 🛠️ Tech Stack
 
-- 🔭 I'm passionate about building innovative software solutions
-- 🌱 I'm constantly learning new technologies and improving my skills
-- 💡 I enjoy solving complex problems and writing clean, efficient code
-- 🎯 Always looking for opportunities to collaborate on exciting projects
-- ⚡ Fun fact: Code is poetry, and debugging is the art of finding the missing semicolon
-
----
-
-### 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" alt="Python" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a" alt="Java" />
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a" alt="C++" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" alt="React" />
-  <img src="https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a" alt="Django" />
-  <img src="https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a" alt="Express" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" alt="Git" />
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" alt="Docker" />
-  <img src="https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" alt="Linux" />
-</p>
+```text
+Languages:   Python • JavaScript • TypeScript • Java • C++
+Frontend:    React • HTML • CSS • TailwindCSS
+Backend:     Node.js • Express • Django • REST APIs
+Tools:       Git • Docker • VS Code • Linux
+Databases:   MongoDB • PostgreSQL • MySQL
+```
 
 ---
 
-### 📊 GitHub Statistics
+## 📂 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaacJM03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJM03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacJM03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🌟 Check out my pinned repositories below! 🌟
 
----
+I'm constantly working on new projects and improving existing ones.  
+Feel free to explore my repositories and don't hesitate to star ⭐ the ones you find interesting!
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IsaacJM03&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+</div>
 
 ---
 
-### 📫 Connect With Me
+## �� GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/IsaacJM03" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/isaacjm03" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacJM03&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJM03&layout=compact&langs_count=8&theme=radical"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsaacJM03&theme=radical)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/IsaacJM03">IsaacJM03</a></i>
-</p>
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=IsaacJM03&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Isaac's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IsaacJM03&theme=react-dark&hide_border=true)](https://github.com/IsaacJM03)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaacJM03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaacjm03)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+**Thanks for visiting! Feel free to reach out if you want to collaborate on a project or just chat about tech!** 🚀
+
+<sub>⭐️ From [IsaacJM03](https://github.com/IsaacJM03)</sub>
+
+</div>
