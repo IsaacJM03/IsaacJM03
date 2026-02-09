@@ -52,8 +52,8 @@ Feel free to explore my repositories and don't hesitate to star ⭐ the ones you
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacJM03&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJM03&layout=compact&langs_count=8&theme=radical"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=IsaacJM03&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJM03&layout=compact&langs_count=8&theme=radical"/> -->
 
 </div>
 
@@ -90,7 +90,7 @@ Feel free to explore my repositories and don't hesitate to star ⭐ the ones you
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaacJM03)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaacjm03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-mwesigwa-10bb0525a/)
 
 </div>
 
