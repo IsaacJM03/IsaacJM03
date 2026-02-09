@@ -54,13 +54,13 @@ Feel free to explore my repositories and don't hesitate to star ⭐ the ones you
 <img height="180em" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=IsaacJM03&)](https://git.io/streak-stats"/>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJM03&layout=compact&langs_count=8&theme=radical"/> -->
 
-<!-- </div>
+</div>
 
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsaacJM03&theme=radical)](https://git.io/streak-stats)
 
-</div> -->
+</div>
 
 ---
 
